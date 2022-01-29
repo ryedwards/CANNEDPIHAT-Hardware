@@ -1,6 +1,7 @@
 # CANNEDPIHAT-Hardware
  
-![CannedPiHat_3dView](https://github.com/ryedwards/CANNEDPIHAT-Hardware/blob/main/images/CannedPIHat_3DView.jpg?raw=true)
+![CannedPiHat Front](https://github.com/ryedwards/CANNEDPIHAT-Hardware/blob/main/images/CannedPIHat_3DView.jpg?raw=true)
+![CannedPiHat Front](https://github.com/ryedwards/CANNEDPIHAT-Hardware/blob/main/images/CannedPIHat_3DView_back.jpg?raw=true)
 
 ## The CannedPi Hardware
 Meet the CannedPi hardware!  This simple (and not prefectly designed) Raspberry PI Hat contains an STM32G4 microcontroller which can interface with the USB port of your Pi.
